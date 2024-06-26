@@ -43,12 +43,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-kumar-01&show_icons=true&locale=en&layout=compact" alt="deepak-kumar-01" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-kumar-01&show_icons=true&locale=en&layout=compact&theme=transparent&&text_color=006aff" alt="deepak-kumar-01" />
 <br>  
 <br>
 
    
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-kumar-01&show_icons=true&locale=en&" alt="deepak-kumar-01" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-kumar-01&show_icons=true&rank_icon=github&locale=en&theme=transparent&&text_color=006aff" alt="deepak-kumar-01" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-kumar-01&theme=transparent&" alt="deepak-kumar-01"/>
    
 </div>
