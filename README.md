@@ -43,15 +43,17 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align=center>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-kumar-224&show_icons=true&theme=transparent&text_color=006aff&border_color=006aff&rank_icon=github&border_radius=10&locale=en&layout=compact&card_width=390" alt="Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-kumar-01&show_icons=true&locale=en&layout=compact" alt="deepak-kumar-01" />
 <br>  
 <br>
 
    
-   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-kumar-224&&theme=transparent&border=006AFF&border_radius=10&card_height=206&stroke=006AFF" alt="Streak Stats"/>
-   <img width=390 src="https://github-readme-stats.vercel.app/api?username=deepak-kumar-224&count_private=true&show_icons=true&theme=transparent&text_color=006aff&border_color=006aff&rank_icon=github&border_radius=10" alt="readme stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-kumar-01&show_icons=true&locale=en&" alt="deepak-kumar-01" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-kumar-01&theme=transparent&" alt="deepak-kumar-01"/>
    
 </div>
+
+
 <br/><br/>
 <hr/>
 <br/>
