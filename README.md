@@ -11,16 +11,16 @@
 </div>
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/mks30d" target="_blank">
+   <a href="https://www.linkedin.com/in/deepak-kumar-72b18a300/" target="_blank">
    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="35" /></a>
    <span>&nbsp&nbsp</span>
-   <a href="mailto:mks30d@gmail.com" target="blank">
+   <a href="mailto:deepakkumar224336@gmail.com" target="blank">
    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="35" /></a>
    <span>&nbsp&nbsp</span>
-   <a href="https://leetcode.com/u/Mks30d/" target="blank">
+   <a href="https://leetcode.com/u/Deepak-Kumar-01/" target="blank">
    <img align="center" src="https://github.com/Mks30d/icons/blob/main/icons/leetcode_logo-modified.png" alt="Leetcode" height="36" /></a>
    <span>&nbsp&nbsp</span>
-   <a href="https://github.com/Mks30d" target="blank">
+   <a href="https://github.com/Deepak-Kumar-01/Deepak-Kumar-01" target="blank">
    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35" /></a>
    <!-- sqlite, safari, google-chrome are other good icon options -->
 </div>
